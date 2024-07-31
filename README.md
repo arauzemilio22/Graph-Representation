@@ -17,7 +17,7 @@ This project is interactive, allowing users to input the vertices and edges.
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arauzemilio22/GraphRepresentation.git
+    git clone https://github.com/arauzemilio22/Graph-Representation
     ```
 2. Navigate to the project directory:
     ```bash
